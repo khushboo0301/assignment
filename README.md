@@ -1,6 +1,3 @@
-# 📅 Event Management API
-
-A simple backend API built with **Express.js**, **TypeScript**, and **PostgreSQL** to manage users, events, and attendees.
 
 ### 1. Clone the repo
 
